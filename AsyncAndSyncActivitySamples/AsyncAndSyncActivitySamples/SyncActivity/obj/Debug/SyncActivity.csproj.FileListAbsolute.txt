@@ -1,0 +1,6 @@
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\SyncActivity\bin\Debug\SyncActivity.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\SyncActivity\bin\Debug\SyncActivity.pdb
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\SyncActivity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\SyncActivity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\SyncActivity\obj\Debug\SyncActivity.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\SyncActivity\obj\Debug\SyncActivity.pdb

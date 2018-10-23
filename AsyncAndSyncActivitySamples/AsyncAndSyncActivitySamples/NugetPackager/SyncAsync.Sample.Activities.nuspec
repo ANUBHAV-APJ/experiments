@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Required elements-->
+    <id>SyncAsync.Sample.Activities</id>
+    <version>1.0.0.3</version>
+    <description>Test Sync and Async Activities</description>
+    <authors>ANUBHAV</authors>
+
+    <!-- Optional elements -->
+    <!-- ... -->
+  </metadata>
+  <!-- Optional 'files' node -->
+  <files>
+    <file src="SyncActivity.dll" target="lib\net40" />
+    <file src="AsyncActivity.dll" target="lib\net40" />
+    <file src="Newtonsoft.Json.dll" target="lib\net40" />
+  </files>
+</package>

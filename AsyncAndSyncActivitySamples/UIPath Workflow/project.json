@@ -1,0 +1,27 @@
+{
+  "name": "SyncAsyncCodeActivitySamples",
+  "description": "Asynchronous and Synchronous code activity examples",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.UIAutomation.Activities": "[18.3.6864.20582]",
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "Newtonsoft.Json": "[11.0.2]",
+    "UiPath.WebAPI.Activities": "[1.2.6863.33980]",
+    "SyncAsync.Sample.Activities": "[1.0.0.3]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.1.3.7",
+  "projectVersion": "1.0.6844.42193",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\SyncAsync.Sample.Activities.nuspec
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\NugetPackager.dll.config
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\NugetPackager.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\NugetPackager.pdb
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\AsyncActivity.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\SyncActivity.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\AsyncActivity.pdb
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\SyncActivity.pdb
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\obj\Debug\NugetPackager.csprojResolveAssemblyReference.cache
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\obj\Debug\NugetPackager.dll
+C:\Users\anubh\documents\visual studio 2015\Projects\AsyncAndSyncActivitySamples\NugetPackager\obj\Debug\NugetPackager.pdb
